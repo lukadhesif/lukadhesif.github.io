@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:REYNAUD ;Lucas;;;
+FN:Lucas REYNAUD 
+ORG:LUK'ADHESIF
+ADR;TYPE=WORK:
+TITLE:Graphiste / Réalisation & Impression
+TEL;TYPE=CELL:+33675428067
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+33675428067
+EMAIL;TYPE=WORK:lukadhesif@gmail.com
+URL;TYPE=Digital Business Card:
+URL:https://www.lukadhesif.com/
+URL;TYPE=Website:https://www.lukadhesif.com/
+URL;TYPE=Location:https://osm.org/go/xV4AxfJ--?relation=382578
+URL;TYPE=Facebook:https://facebook.com/lukadhesif
+URL;TYPE=Instagram:https://instagram.com/lukadhesif
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100279707
+END:VCARD
